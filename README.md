@@ -19,7 +19,7 @@
 [Our team member Gautham often makes excuses and never does anything punctually. This was the basis of our inspiration and the app will allow him to continue to making excuses until he decides to change his ways 🙏.]
 
 ### The Solution (that nobody asked for)
-[When you're late to class and your professor asks you to explain yourself you can quickly pull out our app and generate an execuse to give. The execuse however might end up getting you suspended (we are not accountable).]
+[When you're late to class and your professor asks you to explain yourself you can quickly pull out our app and generate an excuse to give. The excuse however might end up getting you suspended (we are not accountable).]
 
 ## Technical Details
 ### Technologies/Components Used
