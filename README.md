@@ -36,10 +36,10 @@ For Software:
 ![<img width="1280" alt="readme-banner" src="./advice.jpg">]
 *A response giving therapy*
 
-![<img width="1280" alt="readme-banner" src="./therapy.jpg">](Add screenshot 2 here with proper name)
+![<img width="1280" alt="readme-banner" src="./therapy.jpg">]
 *A response providing therapy*
 
-![<img width="1280" alt="readme-banner" src="./excuse.jpg">](Add screenshot 3 here with proper name)
+![<img width="1280" alt="readme-banner" src="./excuse.jpg">]
 *An excuse reponse*
 
 # Additional Demos
